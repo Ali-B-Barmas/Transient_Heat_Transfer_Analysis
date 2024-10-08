@@ -28,3 +28,7 @@ How to Run:
 	* Run the transient_heat_transfer_2D.m script for the explicit method.
 	* Execute Guass_seidel.m and lassonnen.m for PSOR and implicit solutions.
 	* Generated plots will be saved in the Results/ folder.
+
+APOLOGY: Sorry for my reports being in Persian; I will translate them into English as soon as I can!
+
+
